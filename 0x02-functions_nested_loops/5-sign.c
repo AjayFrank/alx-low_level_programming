@@ -3,13 +3,11 @@
 /**
  * print_sign - prints the sign of a number
  * @n: Number to be checked
- * Return: 1 for positive num and -1 for negative num or for zero or for anything else
+ * Return: 1 for positive num and -1 for negative num or for anything else
  */
 
 int print_sign(int n)
-
 {
-
 	if (n > 0)
 {
 	_putchar(43);
