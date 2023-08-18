@@ -15,7 +15,8 @@ int main(void)
 
 	while (i < 10)
 	{
-		putchar(i); /*putchar will print ascii value of i*/
+		putchar(i);
+/*putchar will print ascii value of i*/
 	}
 
 	printf("Infinite loop avoided! \\o/\n");
